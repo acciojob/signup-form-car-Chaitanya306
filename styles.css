@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+form{
+	display:flex;
+	flex-direction:column;
+}
+
+form input,select,button{
+	width:50%;
+}
